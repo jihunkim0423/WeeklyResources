@@ -1,1 +1,1 @@
-# WeeklyResources
+# Data Structure Weekly Resources
